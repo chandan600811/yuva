@@ -5,3 +5,5 @@
  
  hayabuza
  kawasaki
+ 
+ Ninja
