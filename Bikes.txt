@@ -8,5 +8,12 @@
  
  Ninja
  
+ rx100
+ rx135
+ 
  Thank you
+
+recognize
+
  finally
+
